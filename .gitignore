@@ -1,0 +1,7 @@
+###> PHPStorm ###
+/.idea/
+###< PHPStorm ###
+
+###> Composer ###
+/vendor/
+###< Composer ###
